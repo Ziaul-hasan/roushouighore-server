@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "user_name": "John Smith",
+        "designation": "CEO",
+        "image": "https://images.squarespace-cdn.com/content/v1/5521b031e4b06ebe90178744/1560360135937-3YXVZ3124L1YL2FOASSQ/headshots-linkedin-photographer.jpg",
+        "comments": "I am warm-heartedly thankful to all the chefs for your dedication to the kitchen and commitment to cooking skills. I am immensely thankful to all the culinary experts for making delightful dishes and for every dutiful service in the kitchen."
+    },
+    {
+        "id": 2,
+        "user_name": "Jane Doe",
+        "designation": "Marketing Director",
+        "image": "https://images.squarespace-cdn.com/content/v1/5ec689480cc22c2d441e152f/1611673598055-Q5ADEMR3P9WV90ZGO958/professional-headshot-photographer-westport-connecticut.jpg?format=1000w",
+        "comments": "I am greatly thankful to all the chefs for the courage, enthusiasm, and heart you fearlessly put on a presentation in your cooking journey. These words of gratefulness are rarely expressed in our industry. I want to express my thankfulness to all the chefs. I am filled with heartfelt indebtedness for the magic you put on dishes."
+    },
+    {
+        "id": 3,
+        "user_name": "Bob Johnson",
+        "designation": "Customer Support Specialist",
+        "image": "https://images.squarespace-cdn.com/content/v1/631ba8eed2196a6795698665/3690ca61-6a9d-4c93-a2a5-83a5f2aa1648/2022-08-16-Trinet-0540-Martinez-Juan.jpg?format=750w",
+        "comments": "I am warm-heartedly grateful to the culinary expert for making the tasty chicken and wonderful dessert. The presentation of the dishes was very outstanding. I am absolutely fortunate to have the opportunity to taste the delicious dishes made by such a talented culinary expert like you."
+    },
+    {
+        "id": 4,
+        "user_name": "Emily Wilson",
+        "designation": "Product Manager",
+        "image": "https://www.epicscotland.com/wp-content/uploads/2019/09/Business-Headshot-Women-006.jpg",
+        "comments": "My heart is filled with heartfelt indebtedness to you dear culinary expert for all your effort, skills, and cheerfulness which makes our celebration remarkably outstanding. All the guests appreciated the dishes made by you. We will definitely prefer to book you again."
+    }
+]
