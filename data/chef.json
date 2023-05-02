@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+      "name": "Nazrul Islam",
+      "image": "https://ashebre.com/wp-content/uploads/revslider/landing-top/landing-slide-1-img-1.png",
+      "years_of_experience": 20,
+      "no_of_recipes": 150,
+      "likes": 5000,
+      "ratings": 4.5,
+      "special_recipes": [
+        {
+            "id": "a",
+          "name": "Biriyani",
+          "image": "https://example.com/ayesha-biriyani.jpg",
+          "ingredients": ["Basmati Rice", "Chicken", "Yogurt", "Onion", "Garlic", "Ginger"],
+          "cooking_methods": ["Marinating chicken", "Cooking rice with spices", "Layering and slow-cooking"],
+          "ratings": 4.8
+        },
+        {
+            "id": "b",
+          "name": "Korma",
+          "image": "https://example.com/ayesha-korma.jpg",
+          "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Yogurt"],
+          "cooking_methods": ["Marinating chicken", "Slow-cooking with spices and yogurt"],
+          "ratings": 4.6
+        },
+        {
+            "id": "c",
+          "name": "Fish curry",
+          "image": "https://example.com/ayesha-fish-curry.jpg",
+          "ingredients": ["Fish", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking fish with spices and tomatoes"],
+          "ratings": 4.4
+        },
+        {
+            "id": "d",
+          "name": "Naan bread",
+          "image": "https://example.com/ayesha-naan-bread.jpg",
+          "ingredients": ["Flour", "Yeast", "Sugar", "Salt", "Milk", "Butter"],
+          "cooking_methods": ["Making dough", "Kneading", "Baking in oven"],
+          "ratings": 4.7
+        }
+      ]
+    },
+    {
+        "id": 2,
+      "name": "Rahim Ahmed",
+      "image": "https://i.pinimg.com/originals/82/be/22/82be22fd558433e235a173c2257c0cbc.png",
+      "years_of_experience": 15,
+      "no_of_recipes": 200,
+      "likes": 6000,
+      "ratings": 4.7,
+      "special_recipes": [
+        {
+            "id": "e",
+          "name": "Beef curry",
+          "image": "https://example.com/rahim-beef-curry.jpg",
+          "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking beef with spices and tomatoes"],
+          "ratings": 4.5
+        },
+        {
+            "id": "f",
+          "name": "Shrimp curry",
+          "image": "https://example.com/rahim-shrimp-curry.jpg",
+          "ingredients": ["Shrimp", "Onion", "Garlic", "Ginger", "Tomatoes", "Turmeric"],
+          "cooking_methods": ["Cooking shrimp with spices and tomatoes"],
+          "ratings": 4.9
+        },
+        {
+            "id": "g",
+          "name": "Lamb kebab",
+          "image": "https://example.com/rahim-lamb-kebab.jpg",
+          "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Yogurt", "Chili powder"],
+          "cooking_methods": ["Marinating lamb", "Grilling on skewers"],
+          "ratings": 4.6
+        },
+        {
+            "id": "h",
+          "name": "Chicken tikka masala",
+          "image": "https://example.com/rahim-tikka-masala.jpg",
+          "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
+          "cooking_methods": ["Marinating chicken", "Grilling or baking", "Cooking with spices and cream"],
+          "ratings": 4.8
+        }
+      ]
+    },
+    {
+        "id": 3,
+      "name": "Fatima Islam",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-chefcheftrained-professional-cookfood-preparationkitchenchefsexperienced-1421526670303qwiib.png",
+      "years_of_experience": 8,
+      "no_of_recipes": 120,
+      "likes": 4000,
+      "ratings": 4.3,
+      "special_recipes": [
+        {
+            "id": "i",
+          "name": "Shahi paneer",
+          "image": "https://example.com/fatima-shahi-paneer.jpg",
+          "ingredients": ["Paneer", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
+          "cooking_methods": ["Cooking paneer with spices and cream"],
+          "ratings": 4.5
+        },
+        {
+            "id": "j",
+          "name": "Palak paneer",
+          "image": "https://example.com/fatima-palak-paneer.jpg",
+          "ingredients": ["Paneer", "Spinach", "Onion", "Garlic", "Ginger", "Tomatoes"],
+          "cooking_methods": ["Cooking paneer and spinach with spices and tomatoes"],
+          "ratings": 4.2
+        },
+        {
+            "id": "k",
+          "name": "Chana masala",
+          "image": "https://example.com/fatima-chana-masala.jpg",
+          "ingredients": ["Chickpeas", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking chickpeas with spices and tomatoes"],
+          "ratings": 4.1
+        },
+        {
+            "id": "l",
+          "name": "Bhindi masala",
+          "image": "https://example.com/fatima-bhindi-masala.jpg",
+          "ingredients": ["Okra", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking okra with spices and tomatoes"],
+          "ratings": 4.4
+        }
+      ]
+    },
+    {
+        "id": 4,
+      "name": "Abdul Karim",
+      "image": "https://i.pinimg.com/originals/7f/fa/a2/7ffaa25e617a2c8f9661e0e768206545.png",
+      "years_of_experience": 11,
+      "no_of_recipes": 90,
+      "likes": 3000,
+      "ratings": 4.2,
+      "special_recipes": [
+        {
+            "id": "m",
+          "name": "Haleem",
+          "image": "https://example.com/abdul-haleem.jpg",
+          "ingredients": ["Lamb", "Wheat", "Onion", "Garlic", "Ginger", "Chili powder"],
+          "cooking_methods": ["Cooking lamb and wheat with spices"],
+          "ratings": 4.4
+        },
+        {
+            "id": "n",
+          "name": "Nihari",
+          "image": "https://example.com/abdul-nihari.jpg",
+          "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Chili powder", "Flour"],
+          "cooking_methods": ["Cooking beef with spices", "and flour"],
+          "ratings": 4.6
+        },
+        {
+            "id": "o",
+          "name": "Biryani",
+          "image": "https://example.com/abdul-biryani.jpg",
+          "ingredients": ["Rice", "Chicken", "Onion", "Garlic", "Ginger", "Chili powder"],
+          "cooking_methods": ["Cooking chicken with spices and rice separately, then layering them together"],
+          "ratings": 4.7
+        },
+        {
+            "id": "p",
+          "name": "Kebab",
+          "image": "https://example.com/abdul-kebab.jpg",
+          "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Chili powder"],
+          "cooking_methods": ["Grilling or baking lamb with spices"],
+          "ratings": 4.3
+        }
+      ]
+    },
+    {
+        "id": 5,
+      "name": "Sultana Parveen",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-female-chefcheftrained-professional-cookfood-preparationkitchenchefsexperiencedwomenfemale-1421526720120qoyuj.png",
+      "years_of_experience": 7,
+      "no_of_recipes": 150,
+      "likes": 5000,
+      "ratings": 4.5,
+      "special_recipes": [
+        {
+            "id": "q",
+          "name": "Korma",
+          "image": "https://example.com/sultana-korma.jpg",
+          "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
+          "cooking_methods": ["Cooking chicken with spices and cream"],
+          "ratings": 4.6
+        },
+        {
+            "id": "r",
+          "name": "Bhuna gosht",
+          "image": "https://example.com/sultana-bhuna-gosht.jpg",
+          "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking lamb with spices and tomatoes"],
+          "ratings": 4.4
+        },
+        {
+            "id": "s",
+          "name": "Saag gosht",
+          "image": "https://example.com/sultana-saag-gosht.jpg",
+          "ingredients": ["Lamb", "Spinach", "Onion", "Garlic", "Ginger", "Tomatoes"],
+          "cooking_methods": ["Cooking lamb and spinach with spices and tomatoes"],
+          "ratings": 4.5
+        },
+        {
+            "id": "t",
+          "name": "Chicken jalfrezi",
+          "image": "https://example.com/sultana-jalfrezi.jpg",
+          "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Bell peppers"],
+          "cooking_methods": ["Cooking chicken with spices and bell peppers"],
+          "ratings": 4.3
+        }
+      ]
+    },
+    {
+        "id": 6,
+      "name": "Mehedi Hasan",
+      "image": "https://ecoturvalencia.com/wp-content/uploads/2020/04/CHEF-PASANTIAS-COCINA.png",
+      "years_of_experience": 7,
+      "no_of_recipes": 80,
+      "likes": 2500,
+      "ratings": 4.1,
+      "special_recipes": [
+        {
+            "id": "u",
+          "name": "Bhuna chicken",
+          "image": "https://example.com/mehedi-bhuna-chicken.jpg",
+          "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
+          "cooking_methods": ["Cooking chicken with spices and tomatoes"],
+          "ratings": 4.2
+        },
+        {
+            "id": "v",
+            "name": "Palak paneer",
+            "image": "https://example.com/mehedi-palak-paneer.jpg",
+            "ingredients": ["Spinach", "Paneer", "Onion", "Garlic", "Ginger", "Tomatoes"],
+            "cooking_methods": ["Cooking spinach and paneer with spices and tomatoes"],
+            "ratings": 4.0
+          },
+          {
+            "id": "w",
+            "name": "Chicken rezala",
+            "image": "https://example.com/mehedi-rezala.jpg",
+            "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Yogurt", "Spices"],
+            "cooking_methods": ["Cooking chicken with spices and yogurt"],
+            "ratings": 4.1
+          },
+          {
+            "id": "x",
+            "name": "Chana masala",
+            "image": "https://example.com/mehedi-chana-masala.jpg",
+            "ingredients": ["Chickpeas", "Onion", "Garlic", "Ginger", "Tomatoes", "Spices"],
+            "cooking_methods": ["Cooking chickpeas with spices and tomatoes"],
+            "ratings": 4.2
+          }
+        ]
+      }
+]
