@@ -11,7 +11,7 @@
         {
             "id": "a",
           "name": "Biriyani",
-          "image": "https://example.com/ayesha-biriyani.jpg",
+          "image": "https://healux.in/wp-content/uploads/2020/11/ChickenBiryani.jpg",
           "ingredients": ["Basmati Rice", "Chicken", "Yogurt", "Onion", "Garlic", "Ginger"],
           "cooking_methods": ["Marinating chicken", "Cooking rice with spices", "Layering and slow-cooking"],
           "ratings": 4.8
@@ -19,7 +19,7 @@
         {
             "id": "b",
           "name": "Korma",
-          "image": "https://example.com/ayesha-korma.jpg",
+          "image": "https://www.mydelicious-recipes.com/home/images/413_1200_1200/mydelicious-recipes-chicken-korma",
           "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Yogurt"],
           "cooking_methods": ["Marinating chicken", "Slow-cooking with spices and yogurt"],
           "ratings": 4.6
@@ -27,7 +27,7 @@
         {
             "id": "c",
           "name": "Fish curry",
-          "image": "https://example.com/ayesha-fish-curry.jpg",
+          "image": "https://cdn.shopify.com/s/files/1/0524/2113/2440/articles/fish_curry.jpg?v=1664800926",
           "ingredients": ["Fish", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking fish with spices and tomatoes"],
           "ratings": 4.4
@@ -35,7 +35,7 @@
         {
             "id": "d",
           "name": "Naan bread",
-          "image": "https://example.com/ayesha-naan-bread.jpg",
+          "image": "https://lilluna.com/wp-content/uploads/2022/11/naan3-resize-13.jpg",
           "ingredients": ["Flour", "Yeast", "Sugar", "Salt", "Milk", "Butter"],
           "cooking_methods": ["Making dough", "Kneading", "Baking in oven"],
           "ratings": 4.7
@@ -54,7 +54,7 @@
         {
             "id": "e",
           "name": "Beef curry",
-          "image": "https://example.com/rahim-beef-curry.jpg",
+          "image": "https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2016/05/pepper-delight-beef-curry-3.jpg?resize=4640%2C3440",
           "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking beef with spices and tomatoes"],
           "ratings": 4.5
@@ -62,7 +62,7 @@
         {
             "id": "f",
           "name": "Shrimp curry",
-          "image": "https://example.com/rahim-shrimp-curry.jpg",
+          "image": "https://www.allrecipes.com/thmb/9rsfnXzeDI9L4lesKKNmcwioDic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/93597-authentic-and-easy-shrimp-curry-DDMFS-4x3-1-13e45ac2f0344418bcb41d8ecb979d41.jpg",
           "ingredients": ["Shrimp", "Onion", "Garlic", "Ginger", "Tomatoes", "Turmeric"],
           "cooking_methods": ["Cooking shrimp with spices and tomatoes"],
           "ratings": 4.9
@@ -70,7 +70,7 @@
         {
             "id": "g",
           "name": "Lamb kebab",
-          "image": "https://example.com/rahim-lamb-kebab.jpg",
+          "image": "https://c.recipeland.com/images/r/17428/39eb3901f8a2236ed1e5_1024.jpg",
           "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Yogurt", "Chili powder"],
           "cooking_methods": ["Marinating lamb", "Grilling on skewers"],
           "ratings": 4.6
@@ -78,7 +78,7 @@
         {
             "id": "h",
           "name": "Chicken tikka masala",
-          "image": "https://example.com/rahim-tikka-masala.jpg",
+          "image": "https://dralexjimenez.com/wp-content/uploads/2021/08/chicken-tikka-masala-CJ5FKX6-1_02.jpg",
           "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
           "cooking_methods": ["Marinating chicken", "Grilling or baking", "Cooking with spices and cream"],
           "ratings": 4.8
@@ -97,7 +97,7 @@
         {
             "id": "i",
           "name": "Shahi paneer",
-          "image": "https://example.com/fatima-shahi-paneer.jpg",
+          "image": "https://myfoodstory.com/wp-content/uploads/2022/04/Shahi-Paneer-1.jpg",
           "ingredients": ["Paneer", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
           "cooking_methods": ["Cooking paneer with spices and cream"],
           "ratings": 4.5
@@ -105,7 +105,7 @@
         {
             "id": "j",
           "name": "Palak paneer",
-          "image": "https://example.com/fatima-palak-paneer.jpg",
+          "image": "https://www.saveur.com/uploads/2019/12/16/4AUQTG5BAEDAD4NZVQQOP7ZY6U.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
           "ingredients": ["Paneer", "Spinach", "Onion", "Garlic", "Ginger", "Tomatoes"],
           "cooking_methods": ["Cooking paneer and spinach with spices and tomatoes"],
           "ratings": 4.2
@@ -113,7 +113,7 @@
         {
             "id": "k",
           "name": "Chana masala",
-          "image": "https://example.com/fatima-chana-masala.jpg",
+          "image": "https://www.seriouseats.com/thmb/2KtHVPso7I68piUvR0501CjHJyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__03__20160328-channa-masala-recipe-8-2ab6195d55ae4068a8c1d36d7371f5f7.jpg",
           "ingredients": ["Chickpeas", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking chickpeas with spices and tomatoes"],
           "ratings": 4.1
@@ -121,7 +121,7 @@
         {
             "id": "l",
           "name": "Bhindi masala",
-          "image": "https://example.com/fatima-bhindi-masala.jpg",
+          "image": "https://myfoodstory.com/wp-content/uploads/2019/07/Easy-Bhindi-Masala-Spicy-Okra-Stir-Fry-5.jpg",
           "ingredients": ["Okra", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking okra with spices and tomatoes"],
           "ratings": 4.4
@@ -140,7 +140,7 @@
         {
             "id": "m",
           "name": "Haleem",
-          "image": "https://example.com/abdul-haleem.jpg",
+          "image": "https://ratekom.com/wp-content/uploads/2022/05/Haleem-in-Dhaka.jpg.webp",
           "ingredients": ["Lamb", "Wheat", "Onion", "Garlic", "Ginger", "Chili powder"],
           "cooking_methods": ["Cooking lamb and wheat with spices"],
           "ratings": 4.4
@@ -148,7 +148,7 @@
         {
             "id": "n",
           "name": "Nihari",
-          "image": "https://example.com/abdul-nihari.jpg",
+          "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2022/06/27114311/best-nihari-in-Delhi-1.jpg?tr=w-1200,h-900",
           "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Chili powder", "Flour"],
           "cooking_methods": ["Cooking beef with spices", "and flour"],
           "ratings": 4.6
@@ -156,7 +156,7 @@
         {
             "id": "o",
           "name": "Biryani",
-          "image": "https://example.com/abdul-biryani.jpg",
+          "image": "https://c.ndtvimg.com/2022-04/fq5cs53_biryani-doubletree-by-hilton_625x300_12_April_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
           "ingredients": ["Rice", "Chicken", "Onion", "Garlic", "Ginger", "Chili powder"],
           "cooking_methods": ["Cooking chicken with spices and rice separately, then layering them together"],
           "ratings": 4.7
@@ -164,7 +164,7 @@
         {
             "id": "p",
           "name": "Kebab",
-          "image": "https://example.com/abdul-kebab.jpg",
+          "image": "https://images.tv9bangla.com/wp-content/uploads/2022/04/chicken-seekh-kabab.jpg",
           "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Chili powder"],
           "cooking_methods": ["Grilling or baking lamb with spices"],
           "ratings": 4.3
@@ -183,7 +183,7 @@
         {
             "id": "q",
           "name": "Korma",
-          "image": "https://example.com/sultana-korma.jpg",
+          "image": "https://www.pakistanihealthyrecipes.com/wp-content/uploads/2021/07/how-to-make-chicken-korma-recipe.jpg",
           "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Cream"],
           "cooking_methods": ["Cooking chicken with spices and cream"],
           "ratings": 4.6
@@ -191,7 +191,7 @@
         {
             "id": "r",
           "name": "Bhuna gosht",
-          "image": "https://example.com/sultana-bhuna-gosht.jpg",
+          "image": "https://i.ytimg.com/vi/t1vCJZvgfmo/maxresdefault.jpg",
           "ingredients": ["Lamb", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking lamb with spices and tomatoes"],
           "ratings": 4.4
@@ -199,7 +199,7 @@
         {
             "id": "s",
           "name": "Saag gosht",
-          "image": "https://example.com/sultana-saag-gosht.jpg",
+          "image": "https://food-images.files.bbci.co.uk/food/recipes/mutton_saag_25343_16x9.jpg",
           "ingredients": ["Lamb", "Spinach", "Onion", "Garlic", "Ginger", "Tomatoes"],
           "cooking_methods": ["Cooking lamb and spinach with spices and tomatoes"],
           "ratings": 4.5
@@ -207,7 +207,7 @@
         {
             "id": "t",
           "name": "Chicken jalfrezi",
-          "image": "https://example.com/sultana-jalfrezi.jpg",
+          "image": "https://www.talesfromthekitchenshed.com/sj-desford/uploads/2022/03/Slow-Cooker-Chicken-Jalfrezi-11.jpg",
           "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Bell peppers"],
           "cooking_methods": ["Cooking chicken with spices and bell peppers"],
           "ratings": 4.3
@@ -226,7 +226,7 @@
         {
             "id": "u",
           "name": "Bhuna chicken",
-          "image": "https://example.com/mehedi-bhuna-chicken.jpg",
+          "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Bhuna_Murgh_.jpg",
           "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Tomatoes", "Chili powder"],
           "cooking_methods": ["Cooking chicken with spices and tomatoes"],
           "ratings": 4.2
@@ -234,7 +234,7 @@
         {
             "id": "v",
             "name": "Palak paneer",
-            "image": "https://example.com/mehedi-palak-paneer.jpg",
+            "image": "https://cdn.cuisineandtravel.com/wp-content/uploads/2020/05/11131332/Easy-Saag-paneer-recipe.jpg.webp",
             "ingredients": ["Spinach", "Paneer", "Onion", "Garlic", "Ginger", "Tomatoes"],
             "cooking_methods": ["Cooking spinach and paneer with spices and tomatoes"],
             "ratings": 4.0
@@ -242,7 +242,7 @@
           {
             "id": "w",
             "name": "Chicken rezala",
-            "image": "https://example.com/mehedi-rezala.jpg",
+            "image": "https://www.feamag.com/wp-content/uploads/2023/04/DSC_0009.jpg",
             "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Yogurt", "Spices"],
             "cooking_methods": ["Cooking chicken with spices and yogurt"],
             "ratings": 4.1
@@ -250,7 +250,7 @@
           {
             "id": "x",
             "name": "Chana masala",
-            "image": "https://example.com/mehedi-chana-masala.jpg",
+            "image": "https://realfood.tesco.com/media/images/1400x919-Chana-masala-with-rice-b92e66f0-231d-41b7-8050-281c26260caa-0-1400x919.jpg",
             "ingredients": ["Chickpeas", "Onion", "Garlic", "Ginger", "Tomatoes", "Spices"],
             "cooking_methods": ["Cooking chickpeas with spices and tomatoes"],
             "ratings": 4.2
